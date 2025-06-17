@@ -1,4 +1,4 @@
-# Basic Static Website
+# Chapter 3: Basic Static Website
 
 This is the source code for the basic static website from Chapter 3 of *[The Static Site Guide](https://www.staticguide.org/)*.
 
